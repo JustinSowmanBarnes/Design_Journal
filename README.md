@@ -6,7 +6,7 @@ Journal
 <summary>
 Week 1 Journal
 </summary>
-https://github.com/JustinSowmanBarnes/Design_Journal/blob/week_1/Week_1.md
+https://github.com/JustinSowmanBarnes/Design_Journal/blob/Design_journal_Branch/Week_1.md
 <br>
 </details>
 
@@ -14,7 +14,7 @@ https://github.com/JustinSowmanBarnes/Design_Journal/blob/week_1/Week_1.md
 <summary>
 Week 2 Journal
 </summary>
-https://github.com/JustinSowmanBarnes/Design_Journal/blob/Week-2/Week-2.md
+https://github.com/JustinSowmanBarnes/Design_Journal/blob/Design_journal_Branch/Week_2.md
 <br>
 </details>
 
@@ -22,7 +22,7 @@ https://github.com/JustinSowmanBarnes/Design_Journal/blob/Week-2/Week-2.md
 <summary>
 Week 3 Journal
 </summary>
-https://github.com/JustinSowmanBarnes/Design_Journal/blob/week_3/Week_3.md
+https://github.com/JustinSowmanBarnes/Design_Journal/blob/Design_journal_Branch/Week_3.md
 <br>
 </details>
 
