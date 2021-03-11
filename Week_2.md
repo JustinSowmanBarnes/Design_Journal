@@ -1,5 +1,6 @@
 ## Journal 1 
 
+
 # Remote Employee’s 
 
 I would like to start off with the evolution of working online instead of the office and how it has evolved rapidly in these past few years. Because of Covid there are more and more employees becoming remote which means that there is an ever-increasing need for screen sharing apps, cloud storage and video calling software, this is all produced and maintained by IT businesses. The amount of remote employee’s has been ever increasing with statistic’s saying that by 2025 36.2 million Americans will be working remotely that will be an 87% increase compared to pre covid, with all these employees moving to working online the need for IT businesses will almost always be stable. 
@@ -21,3 +22,7 @@ In my opinion Covid 19 has actually been beneficial to the IT business, with the
  https://www.businesswire.com/news/home/20201215005287/en/Upwork-Study-Finds-22-of-American-Workforce-Will-Be-Remote-by-2025
 
  https://www.flexjobs.com/blog/post/remote-work-statistics/#:~:text=According%20to%20Upwork%2C%2041.8%25%20of,be%20working%20remotely%20by%202025.
+
+ https://usefyi.com/zoom-history/
+ 
+ https://www.digitalcommerce360.com/article/coronavirus-impact-online-retail/#:~:text=Online%20holiday%20sales%20still%20came,due%20to%20the%20coronavirus%20pandemic.
