@@ -16,4 +16,8 @@ With the recent influx of employee’s now working online there has been need of
 
 In my opinion Covid 19 has actually been beneficial to the IT business, with the increasing need for online software and applications the IT business has really started to boom. I find it exciting that new software is being developed every day and that these applications can help me evolve my IT skills in the future. 
 
- 
+ Refrence Links 
+
+ https://www.businesswire.com/news/home/20201215005287/en/Upwork-Study-Finds-22-of-American-Workforce-Will-Be-Remote-by-2025
+
+ https://www.flexjobs.com/blog/post/remote-work-statistics/#:~:text=According%20to%20Upwork%2C%2041.8%25%20of,be%20working%20remotely%20by%202025.
